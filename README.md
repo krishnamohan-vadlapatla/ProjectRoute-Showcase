@@ -196,11 +196,9 @@ Flexible schema design with strategic compound indexes ensures performant querie
 
 ## 📬 Contact
 
-**Your Name** — [your.email@example.com](mailto:your.email@example.com)
-
 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
-**GitHub:** [github.com/your-username](https://github.com/your-username)
+**GitHub:** [github.com/krishnamohan-vadlapatla](https://github.com/krishnamohan-vadlapatla)
 
 ---
 
