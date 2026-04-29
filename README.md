@@ -196,9 +196,11 @@ Flexible schema design with strategic compound indexes ensures performant querie
 
 ## 📬 Contact
 
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Project Maintainer**: [Krishna Mohan Vadlapatla](https://github.com/krishnamohan-vadlapatla)
 
-**GitHub:** [github.com/krishnamohan-vadlapatla](https://github.com/krishnamohan-vadlapatla)
+- 💻 **GitHub Repository**: [Repository](https://github.com/krishnamohan-vadlapatla/projectroute)
+- 💼 **LinkedIn**: [Krishna Mohan Vadlapatla](https://www.linkedin.com/in/krishna-mohan-vadlapatla/)
+---
 
 ---
 
